@@ -1,4 +1,4 @@
-# Triangulum Tech
+# Triangulum Technologies
 
 > _**Software Engineering Research & Development**_
 
@@ -21,7 +21,7 @@
 
 ---
  
-Triangulum Tech also has strong collabration relationships with 
+Triangulum Technologies also has strong collabration relationships with 
  the _Andromeda Foundation_,
  _Red Rock Assurance_, 
  and _Inside the Blocks_.
