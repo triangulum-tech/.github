@@ -17,7 +17,7 @@
 # Frameworks & Tools
 
 - **Claritie**
-- **ephplib**
+- **eephplib**
 
 ---
  
