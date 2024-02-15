@@ -21,4 +21,7 @@
 
 ---
  
-Triangulum Tech also has strong collabration relationships with Red Rock Assurance and Inside the Blocks.
+Triangulum Tech also has strong collabration relationships with 
+ the _Andromeda Foundation_,
+ _Red Rock Assurance_, 
+ and _Inside the Blocks_.
