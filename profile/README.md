@@ -4,9 +4,9 @@
 
 ## Blockchain
 
-- **Arcturus**
+- [**Arcturus**](https://github.com/triangulum-tech/Arcturus)
 - **Incordex**
-- **Exterus**
+- **Exterus** / [**Stardust**](https://github.com/triangulum-tech/Stardust)
 
 ## Software as a Service (SaaS)
 
@@ -22,6 +22,5 @@
 ---
  
 Triangulum Technologies also has strong collabration relationships with 
- the _Andromeda Foundation_,
- _Red Rock Assurance_, 
- and _Inside the Blocks_.
+ the _Andromeda Foundation_
+ and _Red Rock Assurance_
