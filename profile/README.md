@@ -1,23 +1,46 @@
-# Triangulum Technologies
+# 🔮 Triangulum Technologies
 
 > _**Software Engineering Research & Development**_
 
-## Blockchain
+<a href="https://tri.tech"><img align="right" src="https://raw.githubusercontent.com/tri.tech/.github/main/profile/public/img/tree.svg" height="250" alt="Triangulum Technologies"></a>
 
-- [**Arcturus**](https://github.com/triangulum-tech/Arcturus)
-- **Incordex**
-- **Exterus** / [**Stardust**](https://github.com/triangulum-tech/Stardust)
+Tri-Tech is a software development [cooperative](https://en.wikipedia.org/wiki/Worker_cooperative) specialized in blockchain and free software research.
+We bring your projects to life by combining creativity, durability, and cutting-edge development.
 
-## Software as a Service (SaaS)
+---
 
-- **Storyteller**
-- **Langic**
-- **Garden Planner**
+Our projects and platforms:
 
 ## Frameworks & Tools
 
 - **Claritie**
 - **eephplib**
+
+## Platforms
+
+- **Storyteller**
+- **Langic**
+- **Garden Planner**
+
+## Blockchains
+
+- [**Arcturus**](https://github.com/triangulum-tech/Arcturus)
+- **Incordex**
+- **Exterus** / [**Stardust**](https://github.com/triangulum-tech/Stardust)
+
+---
+
+ ## More information about our company:
+
+- 🤝️ [How we work as a worker cooperative](https://github.com/triangulum-tech/.github/tree/main/profile/scop/en/README.md)
+- 🧙️ [Titles for programmers](https://github.com/triangulum-tech/.github/tree/main/profile/titles/en/README.md)
+- 📰️ [Press kit](https://github.com/triangulum-tech/.github/tree/main/profile/press-kit/README.md)
+
+## Get in touch! 
+
+- 💻 [tri.tech](https://tri.tech/)
+- ✉️ contact@tri.tech
+- 🐦 [Twitter](https://twitter.com/tri.tech)
 
 ---
  
