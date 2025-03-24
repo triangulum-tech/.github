@@ -24,7 +24,7 @@ Our projects and platforms:
 
 ## Blockchains
 
-- [**Arcturus**](https://github.com/triangulum-tech/Arcturus) ([Sigefroi](https://github.com/triangulum-tech/arcturus-sigefroi))
+- [**Arcturus**](https://github.com/triangulum-tech/Arcturus) ([Siegfried](https://github.com/triangulum-tech/siegfried))
 - [**Incordex**](https://github.com/triangulum-tech/icd-ts-v0.1)
 - **Exterus** / [**Stardust**](https://github.com/triangulum-tech/Stardust)
 
