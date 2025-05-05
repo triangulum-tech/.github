@@ -18,7 +18,7 @@ Our projects and platforms:
 
 ## Platforms
 
-- **Storyteller**
+- **Way** (Moments, Bubbles, Crushed, Reminder)
 - **Langic**
 - **Garden Planner**
 
